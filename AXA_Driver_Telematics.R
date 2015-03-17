@@ -3,6 +3,9 @@
 
 # Top 25% Score
 
+library(dplyr)
+library(randomForest)
+
 # Write functions to create features
 tripTimeCalc <- function(positions){
   return(nrow(positions))
