@@ -1,6 +1,5 @@
 # Thanks to Stephane Soulier for the starter code
 # https://www.kaggle.com/c/axa-driver-telematics-analysis/forums/t/11299/score-0-66-with-logistic-regression
-
 # Top 25% Score
 
 library(dplyr)
